@@ -1,0 +1,2072 @@
+fileFormatVersion: 2
+guid: 6fb7b68aa6d7f41459d885e1bc1354c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7991435423360303334
+    second: unity-png-to-sprite-8_0
+  - first:
+      213: -6918266631678354029
+    second: unity-png-to-sprite-8_1
+  - first:
+      213: -5481801193956847490
+    second: unity-png-to-sprite-8_2
+  - first:
+      213: 2141177639809123243
+    second: unity-png-to-sprite-8_3
+  - first:
+      213: -8328919385708288591
+    second: unity-png-to-sprite-8_4
+  - first:
+      213: 9167347474184364428
+    second: unity-png-to-sprite-8_5
+  - first:
+      213: 597611759859290172
+    second: unity-png-to-sprite-8_6
+  - first:
+      213: -3308372802806322630
+    second: unity-png-to-sprite-8_7
+  - first:
+      213: 8129703957461976789
+    second: unity-png-to-sprite-8_8
+  - first:
+      213: -9138183752260632913
+    second: unity-png-to-sprite-8_9
+  - first:
+      213: -6974449963175393599
+    second: unity-png-to-sprite-8_10
+  - first:
+      213: -2897995684101528511
+    second: unity-png-to-sprite-8_11
+  - first:
+      213: 7949410643203317492
+    second: unity-png-to-sprite-8_12
+  - first:
+      213: -5551540896697211840
+    second: unity-png-to-sprite-8_13
+  - first:
+      213: 4938519927217263177
+    second: unity-png-to-sprite-8_14
+  - first:
+      213: -6297095047861730535
+    second: unity-png-to-sprite-8_15
+  - first:
+      213: -6563030977344970016
+    second: unity-png-to-sprite-8_16
+  - first:
+      213: 6111081826026796487
+    second: unity-png-to-sprite-8_17
+  - first:
+      213: -2033031768297710301
+    second: unity-png-to-sprite-8_18
+  - first:
+      213: 2463799532917582875
+    second: unity-png-to-sprite-8_19
+  - first:
+      213: -6375560722948991262
+    second: unity-png-to-sprite-8_20
+  - first:
+      213: -3288605729142618410
+    second: unity-png-to-sprite-8_21
+  - first:
+      213: 6555924940783152311
+    second: unity-png-to-sprite-8_22
+  - first:
+      213: 8514357973486680283
+    second: unity-png-to-sprite-8_23
+  - first:
+      213: -5296625200271250093
+    second: unity-png-to-sprite-8_24
+  - first:
+      213: 4275571662516396521
+    second: unity-png-to-sprite-8_25
+  - first:
+      213: -5826636355527215007
+    second: unity-png-to-sprite-8_26
+  - first:
+      213: -69766419579103982
+    second: unity-png-to-sprite-8_27
+  - first:
+      213: -8423748514563507970
+    second: unity-png-to-sprite-8_28
+  - first:
+      213: -4057690552396140934
+    second: unity-png-to-sprite-8_29
+  - first:
+      213: 130229386900836129
+    second: unity-png-to-sprite-8_30
+  - first:
+      213: 1400244244406088103
+    second: unity-png-to-sprite-8_31
+  - first:
+      213: 877188680483253936
+    second: unity-png-to-sprite-8_32
+  - first:
+      213: -6249410928092208792
+    second: unity-png-to-sprite-8_33
+  - first:
+      213: -2241784694767772442
+    second: unity-png-to-sprite-8_34
+  - first:
+      213: 3440349010917919570
+    second: unity-png-to-sprite-8_35
+  - first:
+      213: -7739590911057376178
+    second: unity-png-to-sprite-8_36
+  - first:
+      213: -437106546331632503
+    second: unity-png-to-sprite-8_37
+  - first:
+      213: -4108767355871302735
+    second: unity-png-to-sprite-8_38
+  - first:
+      213: 9111903721089834021
+    second: unity-png-to-sprite-8_39
+  - first:
+      213: -8525137808552989311
+    second: unity-png-to-sprite-8_40
+  - first:
+      213: 6149108937866615475
+    second: unity-png-to-sprite-8_41
+  - first:
+      213: -5992008530606884013
+    second: unity-png-to-sprite-8_42
+  - first:
+      213: -6003372316281509104
+    second: unity-png-to-sprite-8_43
+  - first:
+      213: 6469652446732386113
+    second: unity-png-to-sprite-8_44
+  - first:
+      213: -1461179862988595041
+    second: unity-png-to-sprite-8_45
+  - first:
+      213: 5837102962223820816
+    second: unity-png-to-sprite-8_46
+  - first:
+      213: -7398748490244150346
+    second: unity-png-to-sprite-8_47
+  - first:
+      213: 8011619411573022352
+    second: unity-png-to-sprite-8_48
+  - first:
+      213: 1416132003687292586
+    second: unity-png-to-sprite-8_49
+  - first:
+      213: -7031454471622324666
+    second: unity-png-to-sprite-8_50
+  - first:
+      213: 747811905427904268
+    second: unity-png-to-sprite-8_51
+  - first:
+      213: 6218240950566676871
+    second: unity-png-to-sprite-8_52
+  - first:
+      213: 1428071794460893157
+    second: unity-png-to-sprite-8_53
+  - first:
+      213: -6783817556629427305
+    second: unity-png-to-sprite-8_54
+  - first:
+      213: 631670151193056122
+    second: unity-png-to-sprite-8_55
+  - first:
+      213: -863850780575818527
+    second: unity-png-to-sprite-8_56
+  - first:
+      213: 2717970769400382573
+    second: unity-png-to-sprite-8_57
+  - first:
+      213: 5574935760750671001
+    second: unity-png-to-sprite-8_58
+  - first:
+      213: 4885230912835392552
+    second: unity-png-to-sprite-8_59
+  - first:
+      213: -4564280724844180904
+    second: unity-png-to-sprite-8_60
+  - first:
+      213: 3771367685062591099
+    second: unity-png-to-sprite-8_61
+  - first:
+      213: 4846488329763961169
+    second: unity-png-to-sprite-8_62
+  - first:
+      213: 8347756941284371791
+    second: unity-png-to-sprite-8_63
+  - first:
+      213: 2276506518471595331
+    second: unity-png-to-sprite-8_64
+  - first:
+      213: -6268454651847225848
+    second: unity-png-to-sprite-8_65
+  - first:
+      213: -1895210129913208327
+    second: unity-png-to-sprite-8_66
+  - first:
+      213: -7174507995846464086
+    second: unity-png-to-sprite-8_67
+  - first:
+      213: 2071201305164199335
+    second: unity-png-to-sprite-8_68
+  - first:
+      213: 4366550270364167156
+    second: unity-png-to-sprite-8_69
+  - first:
+      213: -6737942028369014172
+    second: unity-png-to-sprite-8_70
+  - first:
+      213: 5207257124234069756
+    second: unity-png-to-sprite-8_71
+  - first:
+      213: -2332856047075784589
+    second: unity-png-to-sprite-8_72
+  - first:
+      213: -3094119275504915788
+    second: unity-png-to-sprite-8_73
+  - first:
+      213: -2005158687597779335
+    second: unity-png-to-sprite-8_74
+  - first:
+      213: 3039977430569655972
+    second: unity-png-to-sprite-8_75
+  - first:
+      213: 1639226225888036988
+    second: unity-png-to-sprite-8_76
+  - first:
+      213: 279625801058558767
+    second: unity-png-to-sprite-8_77
+  - first:
+      213: -7801070059417615188
+    second: unity-png-to-sprite-8_78
+  - first:
+      213: 6179835012560581562
+    second: unity-png-to-sprite-8_79
+  - first:
+      213: 2923434456382002360
+    second: unity-png-to-sprite-8_80
+  - first:
+      213: -6650449097048689659
+    second: unity-png-to-sprite-8_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1725
+        width: 186
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fb229a2d7b81190800000000000000
+      internalID: -7991435423360303334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1725
+        width: 186
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d9f5d27216dff90800000000000000
+      internalID: -6918266631678354029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_2
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1725
+        width: 186
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70d3e0abdabce3b0800000000000000
+      internalID: -5481801193956847490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_3
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1725
+        width: 186
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba305dd08bdf6bd10800000000000000
+      internalID: 2141177639809123243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_4
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1725
+        width: 116
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b52efb72fbb96c80800000000000000
+      internalID: -8328919385708288591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_5
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1723
+        width: 156
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81655305f5f83f70800000000000000
+      internalID: 9167347474184364428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_6
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1757
+        width: 208
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c305204bab42b4800800000000000000
+      internalID: 597611759859290172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_7
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 1731
+        width: 178
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a6a20e67c4612d0800000000000000
+      internalID: -3308372802806322630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_8
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1725
+        width: 116
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6cb912da282d070800000000000000
+      internalID: 8129703957461976789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_9
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 1723
+        width: 156
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae32422b46ae2180800000000000000
+      internalID: -9138183752260632913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_10
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 1757
+        width: 208
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6c131f5b6c53f90800000000000000
+      internalID: -6974449963175393599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_11
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1739
+        width: 238
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1446380974048c7d0800000000000000
+      internalID: -2897995684101528511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1411
+        width: 178
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fed7d9bcdaf15e60800000000000000
+      internalID: 7949410643203317492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1405
+        width: 82
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0442f40c7f6f4f2b0800000000000000
+      internalID: -5551540896697211840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_14
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1419
+        width: 92
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94219f955b5298440800000000000000
+      internalID: 4938519927217263177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_15
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1449
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913845bda693c98a0800000000000000
+      internalID: -6297095047861730535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_16
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1469
+        width: 106
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2e779391e6be4a0800000000000000
+      internalID: -6563030977344970016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_17
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1405
+        width: 70
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c53ca9fa8ceec450800000000000000
+      internalID: 6111081826026796487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_18
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1405
+        width: 70
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dd781d06839c3e0800000000000000
+      internalID: -2033031768297710301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_19
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1405
+        width: 74
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c63551f9c213220800000000000000
+      internalID: 2463799532917582875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_20
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 1405
+        width: 82
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e651b83d457587a0800000000000000
+      internalID: -6375560722948991262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_21
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 1419
+        width: 92
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6c32c53868c52d0800000000000000
+      internalID: -3288605729142618410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_22
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 1449
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bce085bff25bfa50800000000000000
+      internalID: 6555924940783152311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_23
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 1469
+        width: 106
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd830344773192670800000000000000
+      internalID: 8514357973486680283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1151
+        width: 112
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d237d617b9e76b0800000000000000
+      internalID: -5296625200271250093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_25
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1151
+        width: 110
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1240c26c1e55b30800000000000000
+      internalID: 4275571662516396521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_26
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1139
+        width: 102
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1687c610b11a32fa0800000000000000
+      internalID: -5826636355527215007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_27
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1111
+        width: 100
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2159cbf9fc3280ff0800000000000000
+      internalID: -69766419579103982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_28
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1085
+        width: 94
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8b7306b55d81b80800000000000000
+      internalID: -8423748514563507970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_29
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1085
+        width: 214
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e28ffe0ff20b7c0800000000000000
+      internalID: -4057690552396140934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_30
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1085
+        width: 194
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f8a89ffeaaec100800000000000000
+      internalID: 130229386900836129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_31
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1085
+        width: 174
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a13c92b8baae6310800000000000000
+      internalID: 1400244244406088103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_32
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 1085
+        width: 152
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bea23515766c2c00800000000000000
+      internalID: 877188680483253936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_33
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 1085
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861ae972fd1a549a0800000000000000
+      internalID: -6249410928092208792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_34
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 1085
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec957592b493e0e0800000000000000
+      internalID: -2241784694767772442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_35
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 1085
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b012b92339ebf20800000000000000
+      internalID: 3440349010917919570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 765
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c459f8213779490800000000000000
+      internalID: -7739590911057376178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_37
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 765
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cb7e879e51fe9f0800000000000000
+      internalID: -437106546331632503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_38
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 765
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbe198ebd9baf6c0800000000000000
+      internalID: -4108767355871302735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_39
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 765
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c9e1b482cf37e70800000000000000
+      internalID: 9111903721089834021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_40
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 765
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d62fbc450a0b980800000000000000
+      internalID: -8525137808552989311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_41
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 765
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba18b6eff5065550800000000000000
+      internalID: 6149108937866615475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_42
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 765
+        width: 184
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bf01a0dfb18dca0800000000000000
+      internalID: -5992008530606884013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_43
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 765
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b60a18facbfaca0800000000000000
+      internalID: -6003372316281509104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_44
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 765
+        width: 190
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f78b36f92d8c950800000000000000
+      internalID: 6469652446732386113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_45
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 765
+        width: 190
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f906c9108a8d8bbe0800000000000000
+      internalID: -1461179862988595041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_46
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 765
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0103bb4c73e810150800000000000000
+      internalID: 5837102962223820816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_47
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 765
+        width: 190
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb2a88c27d525990800000000000000
+      internalID: -7398748490244150346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_48
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 481
+        width: 306
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e1f6e486dfe2f60800000000000000
+      internalID: 8011619411573022352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_49
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 513
+        width: 172
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaed7daed8c17a310800000000000000
+      internalID: 1416132003687292586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_50
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 721
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e8e9c89614b6e90800000000000000
+      internalID: -7031454471622324666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 445
+        width: 190
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0796d547f2c06a00800000000000000
+      internalID: 747811905427904268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_52
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 445
+        width: 190
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789605ae231ab4650800000000000000
+      internalID: 6218240950566676871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_53
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 445
+        width: 190
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef98961bb781d310800000000000000
+      internalID: 1428071794460893157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_54
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 637
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b6b0cdfd90bd1a0800000000000000
+      internalID: -6783817556629427305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_55
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 635
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a735411e7a424c800800000000000000
+      internalID: 631670151193056122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_56
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 605
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec95dcba4cf204f0800000000000000
+      internalID: -863850780575818527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_57
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 631
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64410ca30c28b520800000000000000
+      internalID: 2717970769400382573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_58
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 637
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9947a2189862e5d40800000000000000
+      internalID: 5574935760750671001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_59
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 445
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8249f45d1a3dbc340800000000000000
+      internalID: 4885230912835392552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_60
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 629
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a00840dda68a0c0800000000000000
+      internalID: -4564280724844180904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_61
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 445
+        width: 192
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b720b819de6965430800000000000000
+      internalID: 3771367685062591099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_62
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 609
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15938a7457f224340800000000000000
+      internalID: 4846488329763961169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_63
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 445
+        width: 192
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d6e84b5b039d370800000000000000
+      internalID: 8347756941284371791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_64
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 445
+        width: 194
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3455c5afd96c79f10800000000000000
+      internalID: 2276506518471595331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_65
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 445
+        width: 190
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e4002b4b9f109a0800000000000000
+      internalID: -6268454651847225848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_66
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 507
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f12dc79d6cd2b5e0800000000000000
+      internalID: -1895210129913208327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_67
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 517
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad2f5d6df60f6c90800000000000000
+      internalID: -7174507995846464086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_68
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 497
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a533a40d926ebc10800000000000000
+      internalID: 2071201305164199335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_69
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 513
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb21fef55a199c30800000000000000
+      internalID: 4366550270364167156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_70
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 509
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462d3e1ac650e72a0800000000000000
+      internalID: -6737942028369014172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_71
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 501
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf60818e3c4e34840800000000000000
+      internalID: 5207257124234069756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_72
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 445
+        width: 190
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3780de109c700afd0800000000000000
+      internalID: -2332856047075784589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_73
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 445
+        width: 190
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba27da89ea7f05d0800000000000000
+      internalID: -3094119275504915788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_74
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 201
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97622732cce3c24e0800000000000000
+      internalID: -2005158687597779335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_75
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 189
+        width: 186
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae1f4add5b203a20800000000000000
+      internalID: 3039977430569655972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_76
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 201
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c788f844193bfb610800000000000000
+      internalID: 1639226225888036988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_77
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 193
+        width: 172
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23212e3f2e61e300800000000000000
+      internalID: 279625801058558767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_78
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 401
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44a70ec180db390800000000000000
+      internalID: -7801070059417615188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_79
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 201
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3f136a33f23c550800000000000000
+      internalID: 6179835012560581562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_80
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 201
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b459c82620229820800000000000000
+      internalID: 2923434456382002360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity-png-to-sprite-8_81
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 157
+        width: 136
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504789528cbd4b3a0800000000000000
+      internalID: -6650449097048689659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
